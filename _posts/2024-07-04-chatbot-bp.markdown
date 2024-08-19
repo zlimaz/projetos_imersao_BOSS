@@ -3,7 +3,7 @@ layout: post
 title: Chatbot de Participação Social
 date: 2024-02-21 13:32:20 +0700
 description: Chatbot de Participação Social
-img: ../assets/img/rasinha_logo.jpeg
+img: # 
 fig-caption: Ícone do Chatbot
 tags: [programacao, chatbot, ai]
 comments: false
@@ -40,48 +40,14 @@ Sinta-se à vontade para explorar o código-fonte, relatar problemas (issues) e 
 
 ## Desenvolvedores
 
-<center>
-<table style="margin-left: auto; margin-right: auto;">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/GabrielSPinto">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/144184007?v=4" width="150px;"/>
-                <h5 class="text-center">Gabriel Santos Pinto</h5>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/GZaranza">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/116514986?v=4" width="150px;"/>
-                <h5 class="text-center">Gabriel Pessoa Zaranza</h5>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Gxaite">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/111130521?v=4" width="150px;"/>
-                <h5 class="text-center">Gabriel Reis Scheidt Paulino</h5>
-            </a>
-        </td>
-        </td>
-        <td align="center">
-            <a href="https://github.com/seraphritt">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84244850?v=4" width="150px;"/>
-                <h5 class="text-center">Isaque Augusto da Silva Santos</h5>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/ThiagoMarquesAeroespacial">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/125684199?v=4" width="150px;"/>
-                <h5 class="text-center">Thiago Henrique Marques Rocha</h5>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Eruel6">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71983159?v=4" width="150px;"/>
-                <h5 class="text-center">Arthur Taylor de Jesus Popov</h5>
-            </a>
-        </td>
-</table>
-</center>
+|                                    Foto                                    |       Nome       |                                Github                                 |
+| :------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/144184007?v=4" width="150px" /> | Gabriel Santos Pinto  | [GabrielSPintos](https://github.com/GabrielSPintos) |
+|       <img src="https://avatars.githubusercontent.com/u/116514986?v=4" width="150px" />        | Gabriel Pessoa Zaranza |              [GZaranza](https://github.com/GZaranza)             |
+|       <img src="https://avatars.githubusercontent.com/u/111130521?v=" width="150px" />        |    Gabriel Reis Scheidt Paulino   |              [Gxaite](https://github.com/Gxaite)             |
+|       <img src="https://avatars.githubusercontent.com/u/84244850?v=4" width="150px" />        | Isaque Augusto da Silva Santos  |              [seraphritt](https://github.com/seraphritt)              |
+|    <img src="https://avatars.githubusercontent.com/u/125684199?v=4" width="150px" />     | Thiago Henrique Marques Rocha  |        [ThiagoMarquesAeroespacial](https://github.com/ThiagoMarquesAeroespacial)        |
+|    <img src="https://avatars.githubusercontent.com/u/71983159?v=4" width="150px" />     | Arthur Taylor de Jesus Popov |        [Eruel6](https://github.com/Eruel6)        |
 
 ## Habilidades necessárias/preferenciais  
 - Chatbot
